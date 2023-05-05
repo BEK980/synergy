@@ -1,0 +1,22 @@
+header{
+    width: 100%;
+    background-image: url(https://i.pinimg.com/originals/f4/f7/f6/f4f7f6c27e036c23fbc21fac73f7cceb.jpg);
+    background-repeat: no-repeat;
+    background-size: 1800px auto;
+    display: inline-block;
+}
+
+.link{
+    text-shadow: 2px 2px 8px #FF0000;
+}
+.regis{
+    box-shadow: 5px 6px 18px ;
+}
+.choose{
+    box-shadow: 5px 10px 18px;
+}
+.swiper { 
+    margin-top: 15%;
+    width: 600px;
+    height: 400px;
+}
